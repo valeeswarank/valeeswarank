@@ -21,7 +21,8 @@ Designed and developed enterprise-grade Risk and PnL systems, high-performance m
 
 ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvaleeswaran%2F)
 ![Static Badge](https://img.shields.io/badge/Website-green?link=https%3A%2F%2Fwww.valeeswaran.com)
-![Static Badge](https://img.shields.io/badge/Facebook-navy?link=https%3A%2F%2Fwww.facebook.com/valeeswaran.krishnamoorthy)
+![Static Badge](https://img.shields.io/badge/Facebook-Like-blue?link=www.facebook.com%2Fvaleeswaran.krishnamoorthy)
+
 
 ## Tech Stack
 ![Static Badge](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge)
