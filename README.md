@@ -1,4 +1,4 @@
-## Lead Python Engineer | FinTech & Banking | FastAPI · Django · RAG · Data Pipelines | Morgan Stanley · ING · UOB
+## Lead Python Engineer | FinTech & Banking | FastAPI · Django · Flask · RAG · Data Pipelines | Morgan Stanley · ING · UOB
 
 I build Python backend systems for financial platforms at scale—including trade flow middleware processing 5M+ trades per day, APAC-wide risk and PnL reporting systems, and access governance platforms serving 1,200+ users.
  
