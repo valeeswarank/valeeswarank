@@ -1,6 +1,26 @@
 ## Lead Python Engineer | FinTech & Banking | FastAPI · Django · RAG · Data Pipelines | Morgan Stanley · ING · UOB
-Lead Python Engineer with 12+ years designing and delivering high-scale, regulated financial backend systems across global investment banks — Morgan Stanley, ING, and UOB. Designed and delivered distributed, real-time, event-driven platforms processing 5M+ FX trades/day, APAC-wide market risk and PnL pipelines across 8 regions, and IAM systems governing 1,200+ users — reducing manual operational effort by 60% through Python automation. Deep expertise in high-throughput data pipelines, microservices deployed in production, built to strict SLA and compliance standards in Singapore's regulated banking environment. Proven across FastAPI, Flask, Django, Docker, and Kubernetes — delivering at AVP level with consistent squad leadership and TDD-disciplined engineering.
 
+I build Python backend systems for financial platforms at scale—including trade flow middleware processing 5M+ trades per day, APAC-wide risk and PnL reporting systems, and access governance platforms serving 1,200+ users.
+ 
+Over the past 12+ years in Singapore’s banking and fintech space, I’ve worked across Morgan Stanley, ING, and UOB, specializing in high-volume financial data pipelines, backend API development, and system integration in regulated environments.
+ 
+My work sits at the intersection of engineering and finance—building systems that support trading, risk management, and regulatory reporting across FX, fixed income, and derivatives. I’ve integrated platforms like Murex MX.3, Bloomberg, and IBM MQ to deliver reliable, production-grade solutions used daily by business and risk teams.
+ 
+I take a TDD-first approach to development, using PyTest, type-safe models, and clean architecture principles to ensure systems are maintainable and resilient—because when software handles real financial data, correctness and reliability are non-negotiable.
+ 
+In recent work, I’ve also built RAG-based internal tools for security and audit workflows, along with IAM platforms for automated provisioning and governance.
+ 
+Technically, I focus on the following:
+ • Python (Django, Flask, FastAPI, DRF) for backend APIs
+ • Data pipelines and messaging systems (SQL, Pandas, Polars, Kafka, IBM MQ)
+ • Cloud and DevOps (Docker, Kubernetes, CI/CD)
+ • Frontend (React, ExtJS) when needed
+ 
+I enjoy solving complex engineering problems, optimizing system performance, and building platforms that people rely on to make real financial decisions.
+ 
+ · Based in Singapore—Open to relocate 
+ · Open to Senior/Lead Python Backend, Data Platform, and Fintech Engineering roles (contract and full-time).
+ 
 ## Socials 🌐
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvaleeswaran%2F)](https://www.linkedin.com/in/valeeswaran/)
