@@ -11,15 +11,15 @@ I take a TDD-first approach to development, using PyTest, type-safe models, and 
 In recent work, I’ve also built RAG-based internal tools for security and audit workflows, along with IAM platforms for automated provisioning and governance.
  
 Technically, I focus on the following:
- • Python (Django, Flask, FastAPI, DRF) for backend APIs
- • Data pipelines and messaging systems (SQL, Pandas, Polars, Kafka, IBM MQ)
- • Cloud and DevOps (Docker, Kubernetes, CI/CD)
- • Frontend (React, ExtJS) when needed
+- Python (Django, Flask, FastAPI, DRF) for backend APIs
+- Data pipelines and messaging systems (SQL, Pandas, Polars, Kafka, IBM MQ)
+- Cloud and DevOps (Docker, Kubernetes, CI/CD)
+- Frontend (React, ExtJS) when needed
  
 I enjoy solving complex engineering problems, optimizing system performance, and building platforms that people rely on to make real financial decisions.
  
- · Based in Singapore—Open to relocate 
- · Open to Senior/Lead Python Backend, Data Platform, and Fintech Engineering roles (contract and full-time).
+- Based in Singapore—Open to relocate
+- Open to Senior/Lead Python Backend, Data Platform, and Fintech Engineering roles (contract and full-time).
  
 ## Socials 🌐
 
